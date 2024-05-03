@@ -1,7 +1,7 @@
-# PytorchLearning
-阅读并理解"https://github.com/pytorch/examples/tree/main"中的部分项目  
-1、word_language_model  
-2、gat  
-3、mnist  
-4、  
-5、  
+# Basic MNIST Example
+
+```bash
+pip install -r requirements.txt
+python main.py
+# CUDA_VISIBLE_DEVICES=2 python main.py  # to specify GPU id to ex. 2
+```
